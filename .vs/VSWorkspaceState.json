@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\test",
+    "\\src\\main\\java\\test\\tasklist",
+    "\\src\\main\\java\\test\\tasklist\\controller"
+  ],
+  "SelectedNode": "\\src\\main\\java\\test\\tasklist\\controller\\TaskController.java",
+  "PreviewInSolutionExplorer": false
+}
