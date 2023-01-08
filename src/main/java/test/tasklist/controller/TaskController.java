@@ -28,11 +28,6 @@ public class TaskController {
         return rep.findAll();
     }
 
-    @GetMapping("{id}")
-    public Rep getOne(@PathVariable("id") Rep rep) {
-        return rep;
-    }
-
     @PostMapping
     public EntityPr create(@RequestBody EntityPr tasklist) {
         return rep.save(tasklist);
